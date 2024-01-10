@@ -5,3 +5,8 @@
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harisrafli&color=red"/></p>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/harisrafliagustin/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harisrafliagustin" height="30" width="40" /></a>
+<a href="https://www.instagram.com/harisrafli/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="harisrafli" height="30" width="40" /></a>
+</p>
